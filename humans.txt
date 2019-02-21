@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    <name> i edit something in stash file
 
 # TECHNOLOGY COLOPHON
 
