@@ -1,0 +1,15 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM --git rebase for example--
+
+    <name> -- <role> -- <twitter>
+
+# THANKS
+
+    <name> i edit something in stash file
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Modernizr
